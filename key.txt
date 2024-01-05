@@ -1,0 +1,7 @@
+Done! Here's the API key and secret for your new app:
+	TestForAcrossTheGlobe
+Key:
+4e3a11513b7038875db9dd861929821c
+
+Secret:
+afc396e44c0e4437
